@@ -1,6 +1,6 @@
 {
   "name": "@prajuwalsingh/use-useless",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A completely useless React hook that does absolutely nothing",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
